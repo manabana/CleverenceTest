@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CleverenceTest.Task1/CleverenceTest.Task1.csproj" />
+  <Project Path="CleverenceTest.Task2/CleverenceTest.Task2.csproj" />
+  <Project Path="CleverenceTest.Task3/CleverenceTest.Task3.csproj" Id="51b8bf1f-5f8c-4a89-b176-3902a4cf5c5c" />
+  <Project Path="CleverenceTest.Tools/CleverenceTest.Tools.csproj" />
+</Solution>
